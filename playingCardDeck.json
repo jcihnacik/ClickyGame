@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name": "Ace of Spades",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/01_of_spades_A.svg/1024px-01_of_spades_A.svg.png",
+        "clicked": false
+    },
+
+    {
+        "id": 2,
+        "name": "Two of Hearts",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Playing_card_heart_2.svg/80px-Playing_card_heart_2.svg.png",
+        "clicked": false
+
+    },
+
+    {
+        "id": 3,
+        "name": "Three of Clubs",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Playing_card_club_3.svg/80px-Playing_card_club_3.svg.png",
+        "clicked": false
+    },
+
+    {
+        "id": 4,
+        "name": "Four of Diamonds",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Playing_card_diamond_4.svg/80px-Playing_card_diamond_4.svg.png",
+        "clicked": false
+    },
+
+    {
+        "id": 5,
+        "name": "Jack of Spades",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Playing_card_spade_J.svg/80px-Playing_card_spade_J.svg.png",
+        "clicked": false
+    },
+
+    {
+        "id": 6,
+        "name": "Queen of Hearts",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Playing_card_heart_Q.svg/80px-Playing_card_heart_Q.svg.png",
+        "clicked": false
+    },
+
+    {
+        "id": 7,
+        "name": "King of Clubs",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Playing_card_club_K.svg/80px-Playing_card_club_K.svg.png",
+        "clicked": false
+    },
+
+    {
+        "id": 8,
+        "name": "Ace of Diamonds",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Playing_card_diamond_A.svg/80px-Playing_card_diamond_A.svg.png",
+        "clicked": false
+    },
+
+    {
+        "id": 9,
+        "name": "Seven of Spades",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Playing_card_spade_7.svg/80px-Playing_card_spade_7.svg.png",
+        "clicked": false
+    },
+
+    {
+        "id": 10,
+        "name": "Ace of Hearts",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Playing_card_heart_A.svg/80px-Playing_card_heart_A.svg.png",
+        "clicked": false
+    }
+
+]
